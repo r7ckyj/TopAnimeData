@@ -103,3 +103,4 @@ plt.show()
   <img width="420" src="AnimeDataPNGs/DemographicDistr.png"> <img width="420" src="AnimeDataPNGs/TopGenres.png">
 </p>
 
+Thank you for taking the time to view my project!
